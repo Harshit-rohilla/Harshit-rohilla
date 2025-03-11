@@ -38,6 +38,5 @@ Front-End Developer skilled in **React, JavaScript, and Tailwind CSS**, with a s
 
 ### 🔹 GitHub Stats  
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-rohilla&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-rohilla&theme=tokyonight)  
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-rohilla&show_icons=true&theme=tokyonight)    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-rohilla&layout=compact&theme=tokyonight)  
