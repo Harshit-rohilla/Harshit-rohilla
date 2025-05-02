@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Rohilla
+Hi 👋 My name is Harshit Rohilla
 =======================================================================================================================================
 
 MERN Stack Developer
 --------------------
 
-Front-End Developer skilled in React, JavaScript, and Tailwind CSS, with a solid foundation in MERN Stack. I enjoy building user-friendly, efficient web applications and continuously exploring new technologies. Currently diving deeper into MongoDB, Express, and backend development.
+Full-stack developer passionate about crafting seamless web experiences. Proficient in HTML, CSS, JavaScript, Tailwind CSS, React, Redux, Express, and MongoDB, with a flair for animations using Framer Motion. Continuously learning and building modern, responsive applications.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://harshit-rohilla-portfolio.netlify.app)
